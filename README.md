@@ -23,9 +23,9 @@
 ・マーチンゲール法（以下 MG）  
   
 ### 結果  
-1. normal & normal'  
-＜画像＞
-2. normal & MG  
+### 1. normal & normal'  
+<img src="https://user-images.githubusercontent.com/57177320/92250383-5c8fed80-ef06-11ea-99ee-ab9548c73027.png" width="400px">  
+### 2. normal & MG  
 ＜画像＞
 3. BS & normal'  
 ＜画像＞
